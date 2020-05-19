@@ -7,6 +7,11 @@ package shembull;
 
 /**
  *
+ * // Projekti 3 Faza e Dyte(2),
+ * // Punuar nga studentja Esmeralda Ulaj,Informatike,Viti i Dyte(2),Bachelor,Shkoder(Maj,2020).
+ * // Ky projekt eshte nje aplikacion qe permban elemente te tille si textbox,combo box,option box dhe button.
+ * // Aplikacioni ben llogaritjen e numrit te dhene nga perdoruesi, ne varesi te specifikimeve,rritje apo zvogelim te numrit.
+ * 
  * @author Esmeralda
  */
 public class Project3Frame extends javax.swing.JFrame {
